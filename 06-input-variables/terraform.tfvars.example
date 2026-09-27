@@ -1,0 +1,3 @@
+# Uncomment / edit to override default variable values
+# instance_name = "MyCustomServerName"
+# instance_type = "t2.micro"
