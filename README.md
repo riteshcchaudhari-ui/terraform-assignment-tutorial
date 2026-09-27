@@ -172,7 +172,7 @@ cd 03-build-infrastructure
 terraform init
 terraform validate
 terraform plan
-terraform apply
+terraform apply 
 ```
 
 ![Terraform apply](screenshots/03-terraform-apply.png)
